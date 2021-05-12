@@ -1,7 +1,8 @@
 # wti-json
 A class that contains common wti json functions
 
-Current functions:
+# Current functions:
+
 print_information(): Prints out the user's URL, URL Extras, username, and password
 
 change_url(): Changes the URL
